@@ -41,7 +41,7 @@ indicators derived from historical price data carry any predictive signal.
 - [x] Stage 1: Problem definition
 - [x] Stage 2: Data collection
 - [x] Stage 3: Feature engineering
-- [ ] Stage 4: Modeling
+- [x] Stage 4: Modeling
 - [ ] Stage 5: Evaluation
 - [ ] Stage 6: Notebook cleanup
 - [ ] Stage 7: Publish
